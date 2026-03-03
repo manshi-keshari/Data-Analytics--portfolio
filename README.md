@@ -4,15 +4,18 @@ SQL and Power BI Internship Projects | L&amp;T Internship | Academic Projects | 
 Manshi Keshari – Data Analytics Portfolio
 
 👩‍💻 About Me
+
 Diploma student in Information & Communication Technology (CGPA: 9.24) currently working as Data Analytics Intern at Larsen & Toubro, Surat. Secured 2nd Rank in 5th Semester (SPI: 9.67). Passionate about transforming raw data into structured business insights.
 
 🏢 Internship Experience – Larsen & Toubro (Ongoing)
+
 Tools Used:
 SQL Server (SSMS)
 Power BI Desktop
 DAX (Basic)
 Data Modeling
 Power Query
+
 Key Responsibilities:
 Designed relational database tables
 Wrote optimized SQL queries (JOIN, GROUP BY, HAVING)
@@ -56,4 +59,5 @@ Zero Backlogs
 
 
 LinkedIn: https://www.linkedin.com/in/manshi-keshari-aa222337b
+
 Email: mansikeshari2006@gmail.com
