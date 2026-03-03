@@ -39,25 +39,17 @@ KPI monitoring
 Interactive filtering
 
 2️⃣ Construction Risk & Cost Monitoring
-
 Cost variance calculation
-
 Delay tracking
-
 Risk score analysis
-
 Contractor performance comparison
 
 🗄 SQL Work Highlights
 
 Aggregate Functions
-
 Conditional Filtering
-
 Relational Joins
-
 Data Validation Queries
-
 Query Optimization
 
 🎓 Academic Projects
