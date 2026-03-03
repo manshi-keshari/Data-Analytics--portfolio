@@ -17,11 +17,16 @@ Data Modeling
 Power Query
 
 Key Responsibilities:
+
 Designed relational database tables
+
 Wrote optimized SQL queries (JOIN, GROUP BY, HAVING)
+
 Created Sales Analytics Dashboard
 Developed Construction Risk & Cost Monitoring Dashboard
+
 Built KPI cards and calculated DAX measures
+
 Implemented drill-through, slicers, and navigation buttons
 Performed data cleaning and transformation
 
@@ -34,16 +39,25 @@ KPI monitoring
 Interactive filtering
 
 2️⃣ Construction Risk & Cost Monitoring
+
 Cost variance calculation
+
 Delay tracking
+
 Risk score analysis
+
 Contractor performance comparison
 
 🗄 SQL Work Highlights
+
 Aggregate Functions
+
 Conditional Filtering
+
 Relational Joins
+
 Data Validation Queries
+
 Query Optimization
 
 🎓 Academic Projects
